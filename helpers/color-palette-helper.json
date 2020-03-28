@@ -1,0 +1,13 @@
+{
+  "name": "Color Palette Helper",
+  "desc": "Create nice, perceptually correct and colorblind-safe color palettes.",
+  "url": "https://gka.github.io/palettes",
+  "tags": [
+    "Accessibility",
+    "Color"
+  ],
+  "maintainers": [
+    "gka"
+  ],
+  "addedAt": "2020-03-28"
+}
